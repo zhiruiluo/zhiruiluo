@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Ph.D. candidate at New Mexico Institute of Mining and Technology ([NMT](www.nmt.edu)). My general research interests are on deep learning, time series classification, and neural architecture search. To learn more about me, you can find my most recent CV [[here]](https://zhiruiluo.github.io/my_cv/main_cv.pdf) and Resume [[here]](https://resume.io/r/Qpyv8C5mO).
+I'm a Ph.D. candidate at New Mexico Institute of Mining and Technology ([NMT](www.nmt.edu)). My general research interests are on deep learning, time series classification, and neural architecture search. To learn more about me, you can find my most recent CV [[here]](https://zhiruiluo.github.io/my_cv/main_cv.pdf).
 
 I'm currently working on my Ph.D. dissertation on Smart Meter Data Analytics using Deep Learning methods, More specifically, I am using Neural Architecture Search (NAS) approach to build an automated pipeline searching for a better model on time series classification. Many smart meter data analytics applications are within the domain of time series classification such as building occupancy detection, socio-demographic information identification, and nonintrusive load monitoring. The need for providing many services through the Smart Grid while protecting users' privacy is quite challenging. A non-intrusive approach via smart meter data through smart meter infrastructures attracted many attentions in the last decade.
 
